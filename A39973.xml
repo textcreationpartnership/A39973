@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Form of an address expressing the true sense of the dissenting Protestants of England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39973</idno>
+            <idno type="STC">Wing F1563</idno>
+            <idno type="STC">ESTC R36463</idno>
+            <idno type="EEBO-CITATION">15693648</idno>
+            <idno type="OCLC">ocm 15693648</idno>
+            <idno type="VID">104440</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39973)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104440)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1592:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Form of an address expressing the true sense of the dissenting Protestants of England</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Th. Dawks for Edw. Powel ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="address">
+            <pb n="1" facs="tcp:104440:1" rendition="simple:additions"/>
+            <head>The FORM OF AN ADDRESS, <hi>Expreſſing the</hi> True Senſe <hi>of the</hi> Diſſenting Proteſtants of ENGLAND.</head>
+            <p>
+               <hi>WE are a PEOPLE diffuſed through His Majeſty's KINGDOM, whom the LAW doth not otherwiſe know, than ſo as to account our very CHARACTER, by which we muſt diſtinguiſh our ſelves, our CRIME, and animadvert upon Us for it. And have not the Advantage of being in any formed Legal Society; whereby, under one common Notion, acceptably to apply ourſelves to His Majeſty, as others, to whom their Circumſtances in theſe Reſpects are more favorable. That any ſhould, undeſired, take upon them to ſpeak unto his Majeſty, the Senſe of the Reſt, though it ſhould fall out to be moſt ſtrictly true, would not be reaſonable or ſatisfying; That it ſhould be allowed Us to ſend Delegates from all Parts, to meet and repreſent our Common Senſe, were a Priviledge none will be ſo little modest as to ask; That any therefore ſhould Ad<g ref="char:EOLhyphen"/>dreſs themſelves in the Name of All jointly, is impoſſible; And to do it for them<g ref="char:EOLhyphen"/>ſelves ſingly, were inconſiderable and preſumptuous. But were it poſſible or per<g ref="char:EOLhyphen"/>mitted to Us to repreſent our common ſentiments, they would certainly admit to be con<g ref="char:EOLhyphen"/>ceived after this following Tenour.</hi>
+            </p>
+            <div type="address_proper">
+               <head>To the KING'S moſt Excellent MAJESTY.</head>
+               <head type="sub">The humble Repreſentation and <hi>Addreſs</hi> of Your <hi>Ma<hi rend="sup">jties</hi>
+                  </hi> Subjects in this your Kingdom of <hi>ENGLAND,</hi> who diſſent from ſome Rites of <hi>Religion,</hi> eſtabliſhed and commonly practiſed therein.</head>
+               <opener>
+                  <salute>May it pleaſe your Majeſty,</salute>
+               </opener>
+               <p>WE Your Majeſty's moſt Loyal and Dutiful Subjects are moſt deeply ſenſible of Your Majeſty's heavy Diſpleaſure, which becauſe it ſo peculiarly falls upon Us, and for Cauſes there<g ref="char:EOLhyphen"/>fore that we muſt ſuppoſe are underſtood to be peculiar to Us, whereof Nothing offers it ſelf to our Conjecture, but either our Diffe<g ref="char:EOLhyphen"/>rent
+<pb n="2" facs="tcp:104440:2"/>Sentiments and Practices in the Matter of Religion; or, That we are thought not to be duly affected towards your Majeſty's Authority and Go<g ref="char:EOLhyphen"/>vernment.</p>
+               <p>VVe do therefore in all Humility proſtrate our ſelves at the Footſtool of your Royal Throne, and moſt humbly repreſent Our unfeigned Senſe con<g ref="char:EOLhyphen"/>cerning both to your moſt Princely Conſideration and Clemency; VVe do with ingenuous Freedom and Sincerity acknowledge to your Majeſty, That there are ſome RITES and MODES in the publick RELIGION and VVor<g ref="char:EOLhyphen"/>ſhip, which VVe ſenſibly find it is Our great Temporal Infelicity not to be ſatisfied with, and a greater difference in Religion is not to be <hi>generally</hi> imputed to Us, nor can be the Cauſe of a general Diſpleaſure towards Us: Beſides, that hereupon alſo VVe have been wont to worſhip GOD in ſuch a VVay, as, according to the information of Our Conſciences, We apprehend agreeable to the DIVINE VVILL. Nor can it enter into Our Minds That this can be the cauſe of Your Majeſty's peculiar Diſpleaſure towards Us. Your Majeſty's declared averſion to afflict your Subjects meerly for their CONSCIENCES in Matters of Religion: And Our own great Experience hereof, cannot allow Us to admit any ſuch Thoughts. Your Majeſty knows there is ſuch a thing as Conſcience in man, which he hath it not in his power to command and alter as he pleaſes, it being its Office, under GOD, to command and govern him. Thoſe of Your Majeſtie's Subjects, whoſe Practice in Religion is more agreeable to Your own Royal Perſwaſion, cannot, without great Uncharitableneſs, be ſuppoſed ſo generally to have choſen it, in deſign to pleaſe Your Majeſty, but from the former Diſpoſiti<g ref="char:EOLhyphen"/>on of their own Minds, apprehending it more pleaſing to God. VVherefore ſince all mens Minds are not of one Complexion more than their Bodies are; and Our Minds are irreſiſtibly led to apprehended a VVay of Religion ſome<g ref="char:EOLhyphen"/>what different to be more pleaſing to the DIVINE MAJESTY. We cannot but conceive ourſelves entituled to your Majeſty's Grace and Favor herein, on the ſame common Reaſon with the reſt of Your Subjects: For ſince no man did ever account, That Religion could have any other proper Deſign than the pleaſing of GOD, and, That Your Majeſty well knows, Thoſe RITES and MODES of it from which we diſſent, are not immediately commanded by GOD himſelf: and therefore, That he cannot be diſpleaſed by their not being Urged upon Us: VVe think ourſelves bound to judge, That Your Majeſty (accounting it your Part to provide for the pleaſing of GOD, in the firſt place) will be much better pleaſed with our worſhiping him without them, than either with our wholly forbearing any ſolemn VVorſhip of GOD, or VVorſhiping him with them againſt our Conſciences, both which would certainly diſpleaſe him. If VVe ſhould thus declare our ſelves to Your Majeſty, <hi>That it is indeed the ſettled apprehenſion of Our Iudgments and Conſciences, That We ſhould moſt highly offend God, if We did in all things fall in with the allowed way of Worſhip</hi> (which VVe generally do, as far as VVe can apprehend it lawful) <hi>but yet, in complaiſance to Your Ma<g ref="char:EOLhyphen"/>jeſty, we are willing to abandon Our Conſciences, and incur the Divine Diſ<g ref="char:EOLhyphen"/>pleaſure;</hi> VVe cannot doubt but VVe ſhould hereby render Ourſelves juſtly deteſtable to your Majeſty, and to all Mankind. And whereas it is ac<g ref="char:EOLhyphen"/>knowledged, not only by all the Divines of the Church of <hi>England,</hi> but
+<pb n="3" facs="tcp:104440:2"/>univerſally by all Chriſtians, That it is an indiſpenſable Duty of natural Religion <hi>to worſhip GOD in Aſſemblies:</hi> If it be poſſible, can we hope to pleaſe Your Majeſty, by reſolving againſt ſuch worſhip of GOD, when that We ought ſo to worſhip him is confeſt and agreed on all hands; But the doing it in the uſe of the RITES and MODES which We ſcruple is ſo doubtful and diſputed a thing, and by Us feared to be ſinful: Could we any way more provoke Your Ma<hi rend="sup">ty</hi> than by refuſing our natural rightful Homage to the Supream RULER, whoſe Vicegerent you are? Or, If We ſhould tell the reverend Fathers of the Church, We are ready to come into their Communion againſt Our Conſciences, would That qualify Us for their Communion? Or, can We think Diſſimulation were more Venial? and the profeſſing that to be accor<g ref="char:EOLhyphen"/>ding to our Conſciences which is really againſt them? We cannot there<g ref="char:EOLhyphen"/>fore but apprehend it were a VVrong to Your Majeſty never to be atton'd for, if we ſhould ever have allow'd ourſelves to think our meer Diſſent in the Matter of Religion were the thing for which Your Majeſty appears ſo much offended with Us. And,</p>
+               <p>
+                  <hi>May it pleaſe your Majeſty,</hi>
+               </p>
+               <p>As to the Matter of Our LOYALTY, VVe make this ſincere Profeſſion. That the ſame Conſcience which conſtrains Us to Diſſent from ſo many of Your Majeſties Subjects in ſome Circumſtances of Religion, doth moſt ſtrict<g ref="char:EOLhyphen"/>ly oblige us to agree with the moſt dutiful and loyal of them in obeying to our utmoſt Your Majeſty's Laws in all things elſe. And not only to obey, but endeavour to preſerve your Majeſty's Authority and Government, with the hazard of all that is dear to Us, together with your Royal Perſon, your Honor, Intereſt, Rights and Prerogatives, and the SUBSTANCE of the eſta<g ref="char:EOLhyphen"/>bliſhed Religion, which is common to Your Majeſty, and Your Kingdom with Us. Nor, if all the reſt of Your Majeſties Subjects were called, in re<g ref="char:EOLhyphen"/>ference to all theſe things, to expreſs their Duty to Your Majeſty, apart from Us, (of which Excluſion we ſhould have as impatient a Senſe, as to have our own Limbs torn from us) we ſhould never decline ſo laudable a Contention as to Vye with them in all Expreſſions of that noble Kind. Nor ſhould they ever be able more zealouſly to abhor or oppoſe any whatſoe<g ref="char:EOLhyphen"/>ver Plots, Confederacies, Aſſociations or Conſpiracies contrary hereunto than VVe. Neither can we ſuppoſe That Your Majeſty's ſober minded Subjects will be ſo Unequal as to reproach Us with the Bloody Conteſts of former daies, which hap'ned before, probably, the greater part of Us were born. The ſtated and publiſhed Occaſions whereof had no connection with the matters of our preſent Difference and Diſſatisfaction; and wherein yet there are ſome of Us ſtill ſurviving That took part with the Crown, and not many that had other participation, than in the Miſeries that from thence deſcended in common to Us with the Nation: The Reports and Hiſtories whereof we never read or hear but with horror, ſtill feeling within ourſelves, even at this diſtance, the Convulſions, Fears and Dangers of our Country, at length return'd to its former ſetled ſtate by Your Majeſty's glorious Reſtitu<g ref="char:EOLhyphen"/>tion, whereto conſiderable numbers of Us (as we believe your Majeſty doth not forget) joyfully contributed their utmoſt and not uſeleſs Endeavours. And after the Inſtruction giv'n to all Your Majeſty's Subjects of whatſoever Denominations, by the Divine Providence which reſtored Your Majeſty to the <hi>glorious Throne</hi> of Your Anceſtors in ſo peaceable a way, and by Your
+<pb n="4" facs="tcp:104440:3"/>Majeſty's Authority and Example, with the Prudent Determination of the Orders and States of Your Realm, for the aboliſhing the Remembrance of thoſe unnatural Contentions: We account, That both the ſenſe of our Duty and our Intereſt, and even Time it ſelf ſhould diſpoſe all our Minds ſo far to bury them in an everlaſting OBLIVION, as that no Seeds of future Ani<g ref="char:EOLhyphen"/>moſity ſhould thence remain among Your People: VVith the entire Body of whom, as we are moſt ſtrictly united, not only in all the Affection and Duty to Your Majeſty, which both Your Sacred Rights and Your Royal Goodneſs do claim from us, but alſo in all the SUBSTANTIALS of the beſt Religion that ever any Nation enjoy'd: So we doubt not but in due time Your Majeſty's great VViſdom and Goodneſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will find-out proper means of effecting an Entire UNION among all your Subjects, in thoſe leſſer things alſo, which that they are the Occaſion of any remaining Difference, we can but Lament (as we do with very ſenſible Grief and Sorrow) but cannot Re<g ref="char:EOLhyphen"/>medy.</p>
+               <p>In the mean time we moſt humbly beſeech Your Majeſty, That we may ſtand right in your Majeſty's gracious Eſtimation and Acceptance, and ſhall ever continue daily Supplicants for all Divine Bleſſings upon Your Royal Per<g ref="char:EOLhyphen"/>ſon, Family and Government.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed by</hi> Th: Dawks, <hi>for</hi> Edw: Powel, <hi>at the</hi> White Swan <hi>in</hi> Little-Britain, <hi>1682.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
